@@ -1,0 +1,77 @@
+.administrator-form__heading{
+    text-align: center;
+}
+
+.form-table__header{
+    font-weight: bold;
+}
+
+.administrator-contents{
+    text-align: center;
+    border: solid 2px black;
+    
+}
+
+.search-form-contents{
+    text-align: left;
+}
+
+.name-registration-day{
+    padding: 0px 0px 0px 66px;
+}
+
+.name-gender {
+        padding: 20px 0px 10px 0px;
+    }
+
+.registration-day {
+    padding: 20px 0px 10px 0px;
+}
+
+.mail{
+    padding: 20px 0px 10px 0px; 
+}
+
+.search-form{
+    height: 30px;
+        width: 250px;
+}
+
+
+.form__button-submit{
+    padding: 10px;
+        width: 10%;
+        height: 40px;
+        border: none;
+        border-radius: 3px;
+        background: #000;
+        color: #fff;
+        cursor: pointer;
+}
+
+.fix{
+    text-decoration: underline;
+}
+
+
+.delete-form__button{
+   
+        width: 55px;
+        height: 30px;
+        border: none;
+        border-radius: 3px;
+        background: #000;
+        color: #fff;
+}
+
+.contents{
+    display: flex;
+    justify-content: space-between;
+    border: solid 2px black;
+}
+
+.header{
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 380px 10px 0px;
+}
